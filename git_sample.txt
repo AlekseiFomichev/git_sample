@@ -1,1 +1,1 @@
-https://github.com/AlekseiFomichev/git_sample.git
+https://github.com/AlekseiFomichev/git_sample.git ссылка на реп
